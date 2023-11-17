@@ -31,7 +31,7 @@ def contactame(request):
       tname,
       template_contact,
       settings.EMAIL_HOST_USER,
-      ['ludwing2002@gmail.com']
+      ['morenoangel1902@gmail.com']
     )
 
     email.fail_silently = False
